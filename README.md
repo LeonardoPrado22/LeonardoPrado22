@@ -2,7 +2,7 @@
 
 ###### Sobre
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d7e3f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Leonardo+Prado.;Brasileiro;25+anos.;Cientista+de+dados.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d7e3f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Leonardo+Prado;Brasileiro;25+anos;Cientista+de+dados)](https://git.io/typing-svg)
 
 Profissional com experiência em análise de dados e comportamento do consumidor, unindo visão estratégica e técnica para gerar insights e apoiar decisões de negócio.
 
@@ -12,7 +12,7 @@ Profissional com experiência em análise de dados e comportamento do consumidor
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoprado22&repo=projeto-fraude-bancaria.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoprado22&repo=projeto-fraude-bancaria&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
